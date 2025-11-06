@@ -14,7 +14,7 @@ This is, as the title implies, a very simple Regular Expression String to Nondet
 
 ## Mechanisms:
 
-### The first part is the NFA Parser:
+### The first part is the Regex Parser:
 
 This component prepares the regular expression before building the NFA.
 It works in three main steps: 
